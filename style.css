@@ -28,7 +28,6 @@ h5{
     color: #dd3232;
     position: relative;
     top: -15px;
-
 }
 
 img{
@@ -44,17 +43,14 @@ section{
     margin: 0 1em;
 }
 
-section h4{
-    font-family:roboto slab;
-    text-align: left;
-    padding-bottom: .5em;
-    margin-top: .5em;
+.more-articles{
+    border-top: 2px solid rgba(221, 218, 218, 0.445);
 }
 
-hr{
-    height: 2px;
-    background-color: rgba(221, 218, 218, 0.445);
-    border: none;
+section h4{
+    font-family:roboto slab;
+    padding-bottom: .5em;
+    margin-top: .5em;
 }
 
 .newspaper-container{
